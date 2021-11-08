@@ -1,0 +1,14 @@
+.Heading{
+    width: 100%;
+    text-align: left;
+}
+h1{
+    display: inline;
+}
+.Heading button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width: 100%;
+}
